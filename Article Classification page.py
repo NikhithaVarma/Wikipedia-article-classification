@@ -67,3 +67,6 @@ if(st.button("predict")):
         st.write("{} is featured".format(name))
     else:
         st.write("{} is non-featured".format(name))
+        
+        
+        
